@@ -21,7 +21,7 @@ sh = gc.open_by_url('https://docs.google.com/spreadsheets/d/16fnlcvGVutSfoCxsIGh
 wks = sh.get_worksheet(0)
 
 # Botのアクセストークン]
-TOKEN = 'OTgwODQ5NDI5MzcwMjY5Njk2.GaGUSX.72gIUI6u9LJXbyzthjG-Z5ms6fCe0f7zRR_GDA'
+TOKEN = '内緒♡　間違えて公開しちゃったけど変更済みです'
 
 # 接続に必要なオブジェクトを生成
 client = discord.Client()
